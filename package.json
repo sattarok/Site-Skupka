@@ -1,0 +1,7 @@
+{
+  "name": "skupka",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1"
+  }
+}
